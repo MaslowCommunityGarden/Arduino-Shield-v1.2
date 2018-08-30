@@ -1,7 +1,1 @@
-Edit this file to add assembly instructions
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+This part is a drop in replacement for the original Maslow shield. The version number will be automatically detected by the firmware. Simply plug in the shield to the Arduino and plug the motors into the shield.
